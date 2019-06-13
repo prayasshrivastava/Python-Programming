@@ -17,4 +17,4 @@ elif(currentTime.hour >=12 and currentTime.hour<18):
 elif(currentTime.hour >=18 and currentTime.hour<21):
     print('Hii' + x + 'GOOD evening')
 else:
-    print('Hii'+'' + x+ 'Good night')    
+    print('Hii' + x+ 'Good night')    
